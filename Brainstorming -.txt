@@ -1,0 +1,5 @@
+ Brainstorming :-
+
+Problem - So the problem is when ever we go out of India the main problem is to understand the language of that country and to read other language books .
+
+Solution - the technology which helps us to solve the problem is to make an app that can convert the written text into any other language and also the additional feature is that it will speaks the text and make the text comfortable according to us which we can understand the language what is written or speoken by someone .
